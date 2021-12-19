@@ -1,4 +1,4 @@
-Feature: Jules login test
+Feature: Jules login test v2
 
     # BDD - behavior driven development
     # are rolul de a facilita/usura comunicarea in echipa
